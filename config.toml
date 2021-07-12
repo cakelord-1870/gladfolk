@@ -1,4 +1,4 @@
-baseURL = "https://localhost"
+baseURL = "192.241.138.81"
 publishDir = "public"
 languageCode = "en-us"
 title = "Gladfolk Wholesale"
